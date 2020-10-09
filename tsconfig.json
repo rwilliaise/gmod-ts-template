@@ -10,6 +10,9 @@
     
     "strict": true,
   },
+  "include": [
+    "src/**/*.ts"
+  ],
   "tstl": {
     "luaTarget": "5.1"
   }

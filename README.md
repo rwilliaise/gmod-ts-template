@@ -1,7 +1,7 @@
 # gmod-ts-template
-A template for Garry's Mod projects created via TypeScript. To use simply run
+A template for Garry's Mod projects created via TypeScript. To build simply run
 
 ```
 npm install
-npx tstl
+npm run-script build
 ```
