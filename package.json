@@ -16,7 +16,7 @@
     "template"
   ],
   "author": "Raja Williams",
-  "license": "MIT",
+  "license": "ISC",
   "devDependencies": {
     "typescript-to-lua": "^0.35.0"
   },
