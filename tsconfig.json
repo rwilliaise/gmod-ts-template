@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "outDir": "out",
+    "rootDir": "src",
+
+    "target": "esnext",
+    "lib": ["ESNext"],
+    "moduleResolution": "node",
+    "types": ["@glua-ts/types"],
+    
+    "strict": true,
+  },
+  "tstl": {
+    "luaTarget": "5.1"
+  }
+}
